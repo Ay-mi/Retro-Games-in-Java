@@ -1,5 +1,5 @@
 # Learning through development
-In pursuit of mastering Java OOP, I coded several retro games in March 2025. This is an ongoing project.
+In pursuit of mastering Java OOP, I coded several retro games in March 2025.
 
 ## Pacman
 What I learned coding this project:
