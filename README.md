@@ -6,7 +6,7 @@ What I learned coding this project:
 - How to implement collision detection for pacman and the ghosts
 - How to repaint the board so every frame capstures the movement of the pacman and the ghosts
   
-<img src="https://github.com/user-attachments/assets/f45430a8-a4db-4d4b-a573-d7ebfdc22258" width=400>
+<img src="https://github.com/user-attachments/assets/f45430a8-a4db-4d4b-a573-d7ebfdc22258" width=600>
 
 
 ## BlackJack
